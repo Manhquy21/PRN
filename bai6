@@ -23,6 +23,6 @@ public class Exercise6
 
         Console.WriteLine("Output: {0} x {1} x {2} = {3}",
                             num1, num2, num3, result);
-        System.Console.WriteLine("HE170670")                    
+        System.Console.WriteLine("HE170670");                    
     }
 }
