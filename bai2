@@ -3,5 +3,6 @@ public class Exercise2
     public static void Main()
     {
         System.Console.WriteLine(15 + 17);
+        System.Console.WriteLine("HE170670");
     }
 }
